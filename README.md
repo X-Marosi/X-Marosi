@@ -1,5 +1,5 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Marosi&hide&layout=compact&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=cdb4db&text_color=333&text_bold=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Marosi&hide&layout=compact&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=cdb4db&text_color=eee&text_bold=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Marosi&show_icons=true&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=a2d2ff&text_color=ffcdb2&custom_title=GitHub Stats&hide_title=true)
 
 <!--
