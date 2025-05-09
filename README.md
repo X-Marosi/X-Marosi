@@ -1,7 +1,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Marosi&hide&layout=compact&theme=github_dark&hide_border=true&title_color=eee)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Marosi&show_icons=true&theme=github_dark&hide_border=true&title_color=00b4d8&icon_color=a2d2ff&text_color=ffcdb2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Marosi&show_icons=true&theme=github_dark&hide_border=true&title_color=cdb4db&icon_color=a2d2ff&text_color=ffcdb2)
 
 <!--
 **X-Marosi/X-Marosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
