@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Jager's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Marosi)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/X-Marosi=anuraghazra&hide_progress=true)
 
 <!--
 **X-Marosi/X-Marosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
