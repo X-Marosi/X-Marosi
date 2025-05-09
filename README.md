@@ -1,12 +1,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Marosi&hide&layout=compact&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=cdb4db&text_color=cdb4db)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Marosi&show_icons=true&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=cdb4db&text_color=ffcdb2&custom_title=GitHub Stats&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Marosi&show_icons=true&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=a2d2ff&text_color=ffcdb2&custom_title=GitHub Stats&hide_title=true)
 
 <!--
 **X-Marosi/X-Marosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there 👋
 Here are some ideas to get you started:
 
+cdb4db
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
