@@ -1,6 +1,6 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Marosi&hide&layout=compact&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=cdb4db&text_color=eee&text_bold=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=X-Marosi&show_icons=true&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=a2d2ff&text_color=ffcdb2&custom_title=GitHub Stats&hide_title=true)
+![Top Langs](https://github-readme-stats-sigma-henna-54.vercel.app/api/top-langs/?username=X-Marosi&hide&layout=compact&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=cdb4db&text_color=eee&text_bold=true)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-henna-54.vercel.app/api?username=X-Marosi&show_icons=true&theme=github_dark&hide_border=true&title_color=a2d2ff&icon_color=a2d2ff&text_color=ffcdb2&custom_title=GitHub Stats&hide_title=true)
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=33ccff" alt="ReactNative" /> <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/firebase-ffba28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 <!--**X-Marosi/X-Marosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
